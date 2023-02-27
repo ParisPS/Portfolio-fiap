@@ -25,7 +25,7 @@ header .container_1 {
     
 }
 
-header .logo {
+header .titulo {
     margin-left: 5px;
     color: var(--vinho);
     font-family: 'Tahoma', impact;
